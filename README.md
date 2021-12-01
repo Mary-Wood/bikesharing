@@ -1,11 +1,11 @@
 # bikesharing
 
 ## Overview
-This project analyzed bikesharing data from NYC in the month of August to examine trends of bike rentals. This was done by cleaning the data in Python and analyzing and presenting the data with Tableau Public. ![Check out the Tableau Public story here!](https://public.tableau.com/views/Module14_16383176292380/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+This project analyzed bikesharing data from NYC in the month of August to examine trends of bike rentals. This was done by cleaning the data in Python, and analyzing and presenting the data with Tableau Public. ![Check out the Tableau Public story here!](https://public.tableau.com/views/Module14_16383176292380/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Results
-This included total rides, start and end date/times, gender of riders, station information including names and latitudes and longitudes, as well as user type (those who were bike rental subscribers and those who were not). The time data was cleaned in Python to make it into a format that was usable by Tableau. 
-The results show that major metropolitan areas had higher traffic, and that those who identified as male were more likly to use the bikes and to subcribe to the bike rentals than those who identified as females or did not disclose or identify a gender. Trips tended to occur over the weekend afternoons and at times commonly associated with work traffic (7-8am and 5-6pm). 
+This included total rides, start and end date/times, gender of riders, station information including names latitudes and longitudes, as well as user type (those who were bike rental subscribers and those who were not). The time data was cleaned in Python to make it into a format that was usable by Tableau. 
+The results show that major metropolitan areas had higher traffic, and that those who identified as male were more likely to use the bikes and to subcribe to the bike rentals than those who identified as females or did not disclose or identify a gender. Trips tended to occur over the weekend afternoons and at times commonly associated with work traffic (7-8am and 5-6pm). 
 
 ## Summary 
 ### Checkout Times for Users
