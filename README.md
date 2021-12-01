@@ -1,7 +1,7 @@
 # bikesharing
 
 ## Overview
-This project analyzed bikesharing data from NYC in the month of August to examine trends of bike rentals. This was done by cleaning the data in Python, and analyzing and presenting the data with Tableau Public. ![Check out the Tableau Public story here!](https://public.tableau.com/views/Module14_16383176292380/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+This project analyzed bikesharing data from NYC in the month of August to examine trends of bike rentals. This was done by cleaning the data in Python, and analyzing and presenting the data with Tableau Public. [Check out the Tableau Public story here!](https://public.tableau.com/views/Module14_16383176292380/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Results
 This included total rides, start and end date/times, gender of riders, station information including names latitudes and longitudes, as well as user type (those who were bike rental subscribers and those who were not). The time data was cleaned in Python to make it into a format that was usable by Tableau. 
